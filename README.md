@@ -20,4 +20,4 @@
 
 
 
-* [Ссылка на сайт в GitHub](https://github.com/AnatoliyPolubabin/mesto-react.git)
+* [Ссылка на сайт в GitHub](https://anatoliypolubabin.github.io/mesto-react/)
