@@ -20,4 +20,4 @@
 
 
 
-* [Ссылка на сайт в GitHub](https://anatoliypolubabin.github.io/mesto-react)
+* [Ссылка на сайт в GitHub](http://192.168.1.90:3000)
